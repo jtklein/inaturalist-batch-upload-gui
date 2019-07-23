@@ -1,0 +1,26 @@
+{
+  "name": "inaturalist-batch-upload-gui",
+  "version": "0.0.1",
+  "description": "A graphical user interface to upload many observations at once from local files.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jtklein/inaturalist-batch-upload-gui.git"
+  },
+  "keywords": [
+    "iNaturalist",
+    "Upload"
+  ],
+  "author": "Johannes Klein",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jtklein/inaturalist-batch-upload-gui/issues"
+  },
+  "homepage": "https://github.com/jtklein/inaturalist-batch-upload-gui#readme",
+  "devDependencies": {
+    "electron": "^5.0.7"
+  }
+}
